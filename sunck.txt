@@ -1,3 +1,8 @@
 sunck is a  coll  man
 sunck is a very man
+<<<<<<< HEAD
 薛延美修改文件内容
+=======
+xym is very girl
+我这次是真的修改的内容
+>>>>>>> xym
