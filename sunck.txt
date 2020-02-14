@@ -13,3 +13,4 @@ xym is a cool man
 xym is a good man
 我又添加了一些内容
 >>>>>>> 090cb4b8ee37b97366ccfb2d9062de5e7d095d26
+lyx is a very man
